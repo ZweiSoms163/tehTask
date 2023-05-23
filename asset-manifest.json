@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tehTask/static/css/main.748a8d2e.css",
+    "main.js": "/tehTask/static/js/main.445a4d19.js",
+    "static/media/remixicon.svg?t=1681573354175": "/tehTask/static/media/remixicon.7b85b7f8453487681fc4.svg",
+    "static/media/remixicon.eot?t=1681573354175": "/tehTask/static/media/remixicon.ae7015155af44fd22375.eot",
+    "static/media/remixicon.ttf?t=1681573354175": "/tehTask/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
+    "static/media/remixicon.woff?t=1681573354175": "/tehTask/static/media/remixicon.56b6495e17f23a23803a.woff",
+    "static/media/remixicon.woff2?t=1681573354175": "/tehTask/static/media/remixicon.52f02e1386dd3597bc00.woff2",
+    "index.html": "/tehTask/index.html",
+    "main.748a8d2e.css.map": "/tehTask/static/css/main.748a8d2e.css.map",
+    "main.445a4d19.js.map": "/tehTask/static/js/main.445a4d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.748a8d2e.css",
+    "static/js/main.445a4d19.js"
+  ]
+}
