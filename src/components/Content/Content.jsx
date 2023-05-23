@@ -6,12 +6,7 @@ import PaginationUi from '../Pagination/PaginationUi';
 import { useSelector } from 'react-redux';
 
 const Content = ({ text }) => {
-  /*
-  Что осталось доделать: 
-  1. убрать EsLint
-  2. еще раз перепроверить адаптивность 
-  3. посмотреть,можно ли поменять иконки на react select в filters
-   */
+
 
   const [appState, setAppState] = useState([]);
   const author = useSelector((state) => state.layout.author);
