@@ -1,0 +1,84 @@
+.wrapper-pag {
+  margin: 40px 0 100px 0;
+
+  max-width: 280px;
+  @media screen and (max-width: 1024) {
+    margin-bottom: 62px;
+  }
+  @media screen and (max-width: 768px) {
+    margin: 35px 0px 54px 0;
+  }
+  @media screen and (max-width: 320px) {
+    margin: 35px 0px 34px 0;
+  }
+}
+
+.MuiPagination-ul {
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+
+  align-content: center;
+  text-align: center;
+
+  button {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    height: 41px !important;
+  }
+}
+.light .MuiPagination-ul {
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+
+  align-content: center;
+  text-align: center;
+
+  button {
+    color: #000000 !important;
+    width: 100%;
+    height: 100%;
+    height: 41px !important;
+  }
+}
+
+.MuiPaginationItem-root {
+  font-size: 18px !important;
+}
+
+.MuiPaginationItem-page.Mui-selected {
+  background-color: #ffffff !important;
+  color: #000000;
+  right: 3px;
+  :hover {
+    background-color: #464646 !important;
+  }
+}
+.light .MuiPaginationItem-page.Mui-selected {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+  right: 3px;
+  :hover {
+    background-color: #ededed !important;
+  }
+}
+
+/* Стилизация общего контейнера Pagination */
+.MuiPagination-root {
+  border: 1px solid #fff !important;
+  border-radius: 8px;
+}
+.light .MuiPagination-root {
+  border: 1px solid #000000 !important;
+  border-radius: 8px;
+}
+.MuiPagination-ul li:not(:last-child) {
+  border-right: 1px solid #ffffff;
+}
+.light .MuiPagination-ul li:not(:last-child) {
+  border-right: 1px solid #000000;
+}

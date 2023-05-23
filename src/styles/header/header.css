@@ -1,0 +1,16 @@
+.header {
+  padding-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dark .header-icon i {
+  color: white;
+  cursor: pointer;
+}
+
+.light .header-icon i {
+  color: black;
+  cursor: pointer;
+}
