@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tehTask/static/css/main.4cb3e62d.css",
-    "main.js": "/tehTask/static/js/main.c9ecaf48.js",
+    "main.css": "/tehTask/static/css/main.c037eb04.css",
+    "main.js": "/tehTask/static/js/main.9735bf41.js",
     "static/media/remixicon.svg?t=1681573354175": "/tehTask/static/media/remixicon.7b85b7f8453487681fc4.svg",
     "static/media/remixicon.eot?t=1681573354175": "/tehTask/static/media/remixicon.ae7015155af44fd22375.eot",
     "static/media/remixicon.ttf?t=1681573354175": "/tehTask/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
@@ -10,11 +10,11 @@
     "static/media/LightSun.svg": "/tehTask/static/media/LightSun.7efac3cbec09ed1764a502709e1ae415.svg",
     "static/media/nightSun.svg": "/tehTask/static/media/nightSun.403f581a5acb220ed1371178ff780034.svg",
     "index.html": "/tehTask/index.html",
-    "main.4cb3e62d.css.map": "/tehTask/static/css/main.4cb3e62d.css.map",
-    "main.c9ecaf48.js.map": "/tehTask/static/js/main.c9ecaf48.js.map"
+    "main.c037eb04.css.map": "/tehTask/static/css/main.c037eb04.css.map",
+    "main.9735bf41.js.map": "/tehTask/static/js/main.9735bf41.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cb3e62d.css",
-    "static/js/main.c9ecaf48.js"
+    "static/css/main.c037eb04.css",
+    "static/js/main.9735bf41.js"
   ]
 }
